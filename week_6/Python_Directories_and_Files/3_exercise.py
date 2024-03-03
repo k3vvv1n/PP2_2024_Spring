@@ -1,7 +1,6 @@
 import os
 
 #path = r"C:\pp2\week_4"
-#path.replace('\\', '/')
 
 if os.path.exists('C:\pp2\week_4'):
     print("Path exists")
